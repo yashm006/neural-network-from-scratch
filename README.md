@@ -66,9 +66,8 @@ Where $\eta$ represents the learning rate.
 ### Visual Results
 
 [Sin Wave Demo](Recordings/Sin%20Wave%20function.mp4)
-![Sin Wave Demo](gifs/sin_wave.gif)
 
 
 [Quadratic function Demo](Recordings/Quadratic%20function.mp4)
-![Quadratic Demo](gifs\quadratic.gif)
 
+[All demos...](Recordings)
