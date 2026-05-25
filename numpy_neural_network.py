@@ -5,9 +5,9 @@ import functions as f
 
 
 def function(X:np.array): 
-    return np.sin(1/X)
+    return X**2
 
-X = np.linspace(-10, 10, 100)
+X = np.linspace(-10, 10, 1000)
 Y = function(X)
 
 class neural_network():
