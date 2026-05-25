@@ -65,11 +65,10 @@ Where $\eta$ represents the learning rate.
 
 ### Visual Results
 
-**Target function:** $sin(x)$
-<video src="Recordings/Sin Wave function.mp4" controls width="700"></video>
+[Sin Wave Demo](Recordings/Sin%20Wave%20function.mp4)
+![Sin Wave Demo](gifs/sin_wave.gif)
 
-**Target function:** $x^2$
-<video src="Recordings/Quadratic function.mp4" controls width="700"></video>
 
-**Target function:** $+\sqrt{1-x^2}$
-<video src="Recordings/Semicircular function.mp4" controls width="700"></video>
+[Quadratic function Demo](Recordings/Quadratic%20function.mp4)
+![Quadratic Demo](gifs\quadratic.gif)
+
