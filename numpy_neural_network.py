@@ -7,7 +7,7 @@ import functions as f
 def function(X:np.array): 
     return X**2
 
-X = np.linspace(-10, 10, 1000)
+X = np.linspace(-20, 20, 1000)
 Y = function(X)
 
 class neural_network():
